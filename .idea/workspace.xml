@@ -9,38 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14882014-2da6-43ef-859b-30184953d3d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/Accept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/DidntNegotiate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/Exposed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/OnTheBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/Refuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/TellTruth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/accept.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/didntNegotiate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/exposed.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/onTheBridge.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/refuse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/start.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/tellTruth.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/AcceptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/DidntNegotiateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/ExposedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/OnTheBridgeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/RefuseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/StartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/servlets/TellTruthTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="14882014-2da6-43ef-859b-30184953d3d8" name="Changes" comment="Готовый проект." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +173,23 @@
       <workItem from="1661360959798" duration="3119000" />
       <workItem from="1661443205365" duration="7394000" />
       <workItem from="1661458439197" duration="320000" />
+      <workItem from="1661601154520" duration="370000" />
     </task>
+    <task id="LOCAL-00001" summary="Готовый проект.">
+      <created>1661601211655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661601211655</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Готовый проект.">
+      <created>1661601395851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661601395851</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,8 +203,42 @@
             <State />
           </value>
         </entry>
+        <entry key="b263b1e6-560f-4655-83d1-331acbee2ad3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/olegk/IdeaProjects/project-servlets/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="b263b1e6-560f-4655-83d1-331acbee2ad3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Готовый проект." />
+    <option name="LAST_COMMIT_MESSAGE" value="Готовый проект." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
